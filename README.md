@@ -17,9 +17,9 @@ public class Person
 ```c#
 Person person = new Person()
 {
-  First_Name = "Gaurav",
-  Last_Name = "Babbar",
-  Age = 27
+  First_Name = "Tom",
+  Last_Name = "Cruise",
+  Age = 58
 };
 ```
 
