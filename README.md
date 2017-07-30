@@ -1,5 +1,5 @@
 # GSerializer
-A light weight JSON and XML serializer
+A light weight JSON serializer
 
 # Usage
 
